@@ -1,3 +1,9 @@
+/**
+ *	Algoritmos necesarios para el entendimiento del manejo de listas (estructura de datos dinamicas)
+ *	Solo se tomora en Cuenta [Un Entero Como Campo de Informacion] Para Centrarnos mas En los algoritmos
+ *	propios de las Listas...
+ * 	A.A.C.C.
+ **/
 public class ImplementacionListaDoble{
 	public static void main (String[] args) {
 		
